@@ -29,7 +29,7 @@ class Image extends Model
     }
 
     /**
-     *
+     * Belongs to user
      */
     public function creator()
     {
