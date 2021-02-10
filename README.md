@@ -28,4 +28,6 @@ The site does use bootstrap ui auth framework for user registration and login fo
 Click on the register button in the top right had corner, register so you can have some fun.
 Once you have registered this will log you into the application. 
 
-Please upload any of your own images, or you can use the images provided within the
+Please upload any of your own images, they can be voted on by you or by any other person that is logged into the application. 
+
+There will be further updates.
