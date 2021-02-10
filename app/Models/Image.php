@@ -33,7 +33,7 @@ class Image extends Model
      */
     public function creator()
     {
-        return $this->belongsTo('App\Models\User', 'id');
+        return $this->belongsTo('App\Models\User', 'created_by');
     }
 
     /**
